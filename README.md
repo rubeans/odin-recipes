@@ -1,2 +1,3 @@
 # odin-recipes
-A simple recipe
+
+Nice recipes to give it a try.
