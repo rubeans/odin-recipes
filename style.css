@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(39, 32, 32);
+    color           : rgb(233, 233, 233);
+    text-align      : justify;
+}
+
+
+main {
+    margin   : 0 auto;
+    max-width: 500px;
+}
+
+hr {
+    width : 350px;
+    margin: 0 auto;
+}
+
+.heading,
+.index-list {
+    text-align: center;
+}
+
+img {
+    width        : 500px;
+    height       : 300px;
+    border-radius: 8px;
+}
+
+.index-list {
+    list-style : none;
+    margin-left: -38px;
+    padding-top: 8px;
+}
+
+.recipes-link {
+    text-decoration: none;
+    color          : rgb(238, 238, 118);
+}
